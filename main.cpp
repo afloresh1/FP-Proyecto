@@ -13,7 +13,6 @@ int main(){
 	string input;
 	char s;
 	string boton;
-	string boton1;
 	
 	
 	//FUNCION PARA LAS DOS PANTALLAS MOSTRADAS (Y SE PODRIA  SALIR DEL BUCLE CUANDO SE PRESIONE UNA TECLA//
