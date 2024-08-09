@@ -3,15 +3,22 @@
 #include <conio.h>
 #include <string>
 #include <stdio.h>
+<<<<<<< HEAD
 #include "menuinicial.h"
+=======
+#include "PROYECTOFINALFP.h"
+>>>>>>> productofinal
 #include"main.h"
 using namespace std;
 
 
 //FUNCIONES----
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> productofinal
 //AQUI SE COLOCARON LAS FUNCIONES Y SUS C�DIGOS
 
 //01 FUNCION
