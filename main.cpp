@@ -34,8 +34,6 @@ int main(){
 	cout<<"Presione las letras - EJECUTAR - para dar inicio al programa"<<endl;
 	cout<<"     ";
 	cout<<"Presione las letras - SALIR - para dejar de ejecutar el programa"<<endl;
-	cout<<"     ";
-	cout<<"Presione las letras - FINALIZAR - para finalizar el programa"<<endl;
 	cout<<" "<<endl;
 	cout<<"     ";
 	//---------------------------------------------------------------------------------------------------
@@ -45,8 +43,6 @@ int main(){
 		cout<< funcioninicio(ejecutar);
 	}else if(boton =="salir"){
 		cout<< funcioninicio(salir);
-	}else if (boton=="finalizar"){
-		cout<< funcioninicio(finalizar);
 	}else{
 		system("cls");
 		//---------------------------------------------------
